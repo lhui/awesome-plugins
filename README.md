@@ -8,7 +8,7 @@
 
 ## Intellij
 
-## Vscode
+## VScode
 
 ## Atom
 
@@ -18,4 +18,4 @@
 
 ## Obsidian
 
-## wordpress
+## Wordpress
